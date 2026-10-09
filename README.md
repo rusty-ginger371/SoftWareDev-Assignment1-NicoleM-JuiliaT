@@ -2,12 +2,36 @@
 
 This is a simple event planner application written in Javascript using MERN stack.
 
-In this application the user should be able to:
--FR-01 Create new events
--FR-02 See a dashboard to view all of their events
--FR-03 Event cards
--FR-04 Remove events
+### Requirement Cards:
 
-potential requirements:
--FR-05 Sort events manually
--FR-06 Calendar view
+#### Requirement ID - FR 01  
+Requirement Name - Create New Events  
+User/Actor - Event Goer  
+Requirement Statement - Users need to be able to create new events. events include an event name, date/time, description, event id.  
+Priority - Must have  
+Acceptance Criteria - If the entered information is valid, a new event should be created and displayed on the dashboard when the user clicks create event  
+Related SDLC Stage - Requirements Analysis  
+
+#### Requirement ID - FR 02
+Requirement Name - Dashboard to View Events  
+User/Actor - Event Planner  
+Requirement Statement - The app should have a dashboard homepage where all events are viewable in cards  
+Priority - Must have  
+Acceptance Criteria - Must display all event cards that are currently active, default sorting method is by date (closest to furthest away)  
+Related SDLC Stage - Requirement Analysis
+
+#### Requirement ID - FR 03
+Requirement Name - Edit Event Cards  
+User/Actor - Event goer  
+Requirement Statement - User should be allowed to edit the name, date, description and header image of the event cards.  
+Priority - Must Have
+Acceptance Criteria - Assuming edited changes are valid, the new info is properly saved and displayed on the card. If the edited changes are not valid, a user friendly error message should be thrown.  
+Related SDLC Stage - Requirements Analysis  
+
+Requirement Name - 
+User/Actor - 
+Requirement Statement - 
+Priority - 
+Acceptance Criteria - 
+Related SDLC Stage - 
+
