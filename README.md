@@ -28,7 +28,21 @@ Priority - Must Have
 Acceptance Criteria - Assuming edited changes are valid, the new info is properly saved and displayed on the card. If the edited changes are not valid, a user friendly error message should be thrown.  
 Related SDLC Stage - Requirements Analysis  
 
+#### Requirement id - FR 04  
+Requirement Name - Remove Events  
+User/Actor - Event goer  
+Requirement Statement - User should have the ability to delete or remove event cards from the dashboard  
+Priority - Must Have  
+Acceptance Criteria - The event card is properly removed from the dashboard and information is discarded  
+Related SDLC Stage - Requirements Analysis  
 
+#### Requirement id - FR 05  
+Requirement Name - Sort Events Manually  
+User/Actor - Events planner  
+Requirement Statement - Users should be able to manually sort events by selecting the “manual sort” sort option on the side of the screen, and clicking and dragging the card to where they want.  
+Priority - Should Have  
+Acceptance Criteria - When the card is dragged it is assigned a priority number, that number is stored and remembered whenever the user opens the app again.  
+Related SDLC Stage - Requirements Analysis  
 
 Requirement Name - 
 User/Actor - 
