@@ -52,4 +52,6 @@ Priority - Could have
 Acceptance Criteria - Calendar should display a shortened version:of the event cards on the day that their date corresponds with.
 Related SDLC Stage - Requirements Analysis
 
+For our branching workflow, I (Julia) added the first 3 requirement cards and created a separate branch when committing it that I then merged to the main branch. Then, Nicole added the next two requirement cards and created a separate branch that was then successfully merged with the main branch. After that we both tried to create pull requests that updated the same lines of code (47 and 48) and resolved a conflict by keeping the initial change made to the card.  
+Using github for canary development, the last stable version of the project could be kept on a the main branch while the working version would stay on it's own branch until it is properly tested and the bugs have been handled. Only then could it be merged to the main branch.
 
