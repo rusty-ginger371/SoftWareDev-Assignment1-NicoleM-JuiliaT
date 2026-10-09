@@ -2,6 +2,10 @@
 
 This is a simple event planner application written in Javascript using MERN stack.
 
+Created By:   
+Nicole Masters - rusty-ginger371  
+Julia Trueman - Snickers6077  
+
 ### Requirement Cards:
 
 #### Requirement ID - FR-01  
